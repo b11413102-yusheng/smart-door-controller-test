@@ -69,8 +69,9 @@
 - `tim.c` / `usart.c` / `gpio.c`：周邊硬體初始化配置檔。
 
 ## 8. 實拍照：每張附一行圖說
-- ![board](docs/board.jpg) ( NUCLEO-G474RE 智慧鐵捲門實體電路與麵包板周邊配線概況 )
-- ![terminal](docs/terminal.jpg) ( Python 序列埠終端機即時互動與 PLC 聯網日誌輸出畫面 )
+<img width="1568" height="990" alt="test" src="https://github.com/user-attachments/assets/f6f30517-a30d-482e-9b5b-d6ed646fd7e7" />
+
+
 
 ## 9. AI 使用說明：哪段 AI、你怎麼查核
 - **應用段落**：協助規劃狀態機（FSM）的邏輯架構、UART 環形緩衝區的接收實作，以及 Python 測試腳本的編寫。
