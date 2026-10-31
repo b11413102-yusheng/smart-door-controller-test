@@ -71,14 +71,18 @@
 ## 8. 實拍照：每張附一行圖說
 <img width="1145" height="1430" alt="接線" src="https://github.com/user-attachments/assets/67acc876-10b2-4706-a94d-f5124da3c2c9" />
 實作照片-接線圖
+
 <img width="1673" height="978" alt="綠燈微亮1" src="https://github.com/user-attachments/assets/0770017b-bb6d-4376-94c8-6fdefe6c7d03" />
 <img width="1774" height="922" alt="綠燈全亮1" src="https://github.com/user-attachments/assets/6412fbd0-1c0a-41f5-979b-499e98baf209" />
 實作照片-鐵捲門上升中
+
 <img width="1691" height="968" alt="黃燈微亮1" src="https://github.com/user-attachments/assets/ec860e8a-5555-492d-8e22-bb08cce40100" />
 <img width="1718" height="952" alt="黃燈全亮1" src="https://github.com/user-attachments/assets/4e0b4849-01c1-4d8b-b7bf-41ef71fada90" />
 實作照片-鐵捲門下降中
+
 <img width="1719" height="953" alt="停止紅燈1" src="https://github.com/user-attachments/assets/cb5e4673-8e7e-4920-af78-48b48b85b670" />
 實作照片-鐵捲門暫停
+
 <img width="1705" height="960" alt="緊急紅燈1" src="https://github.com/user-attachments/assets/8a34359a-caef-4b01-94d1-db5a85ccbc2b" />
 實作照片-鐵捲門緊急停止
 
