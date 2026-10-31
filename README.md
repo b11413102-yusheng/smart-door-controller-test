@@ -86,6 +86,11 @@
 <img width="1705" height="960" alt="緊急紅燈1" src="https://github.com/user-attachments/assets/8a34359a-caef-4b01-94d1-db5a85ccbc2b" />
 實作照片-鐵捲門緊急停止
 
+<img width="922" height="1010" alt="終端機1" src="https://github.com/user-attachments/assets/7ec9e213-0200-4f04-af1d-b945cac76b71" />
+<img width="764" height="1090" alt="終端機2" src="https://github.com/user-attachments/assets/27935eb4-bced-465f-a1bf-5344644666bd" />
+實作照片-終端機狀態
+
+
 ## 9. AI 使用說明：哪段 AI、你怎麼查核
 - **應用段落**：協助規劃狀態機（FSM）的邏輯架構、UART 環形緩衝區的接收實作，以及 Python 測試腳本的編寫。
 - **查核方式**：透過示波器與實體 LED 驗證 PWM 呼吸燈週期是否精確為 5 秒；透過多次發送非同步指令與緊急中斷（EXTI），驗證系統的即時反應能力與 PLC 日誌數據累計是否正確無誤。
